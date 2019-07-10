@@ -1,4 +1,4 @@
-<img src="me.png" align="right"/>
+<img src="me.png" align="right" width="200" height="237"/>
 
 # Serhii Sobol
 ## Front-end
