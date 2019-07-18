@@ -1,4 +1,4 @@
-<img src="me.png" align="right"/>
+<img src="me.png" align="right" width="250" height="333"/>
 
 # Serhii Sobol
 ## Front-end
@@ -12,7 +12,7 @@
 
 ### Summary
 
-Dynamic and motivated developer with good practical experience in HTML5, CSS3, JavaScript. Also, I am ready to learn new ones and expand my current knowledge of the aforementioned as needed to the point where it makes me do my job faster, better and more efficiently. I am looking for new opportunities in Front end development and eager to improve my skills.
+Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready to learn new ones and expand my current knowledge of the aforementioned as needed to the point where it makes me do my job faster, better and more efficiently. I am looking for new opportunities in Front end development and eager to improve my skills.
 
 ### Skills
 
@@ -27,10 +27,10 @@ Dynamic and motivated developer with good practical experience in HTML5, CSS3, J
 
 ### Soft Skills
 
-* **Analytical Thinking**  — at lyceum won different regional mathematics and physics Olympiads, the medalist of Junior Academy of Sciences of Ukraine 2015, 2013.
+* **Analytical Thinking**  — won different regional mathematics and physics competitions, the medalist of Junior Academy of Sciences of Ukraine 2015, 2013.
 * **Cooperation** — enjoy working in a team, I really believe, that two heads are better, than one.
 * **Mathematics** — knowledge of algebra, geometry, higher math, and their applications.
-* **Leadership** — if I can lead a situation - I will lead it. Have successful experience manage small group of people and achieve aims together.
+* **Leadership** — I have experience in leading younger students to successfully prepare and pass national mathematics test to graduate from high school or to enroll into college.  
 
 ### Languages
 
