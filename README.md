@@ -59,8 +59,8 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 **Alma mater:** [Dnipro Regional Math & Physics Boarding School](https://www.dolifmp.inf.ua/)  
 **Major:** Mathematics&Physics   
 
-**Years:** Nov. 2017 - June 2018
-**Alma mater:** [Main Academy](https://mainacademy.ua/)  
+**Years:** Nov. 2017 - June 2018  
+**Alma mater:** [Main Academy](https://mainacademy.ua/)    
 **Major:** Front-end
 
 **Alma mater:** [freeCodeCamp](https://learn.freecodecamp.org/)    
