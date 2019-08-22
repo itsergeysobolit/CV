@@ -64,4 +64,4 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 **Major:** Front-end
 
 **Alma mater:** [freeCodeCamp](https://learn.freecodecamp.org/)    
-**Topics:** Responsive Web Design, Javascript Algorithms And Data Structures  
+**Topics:** Basic JavaScript, ES6 
