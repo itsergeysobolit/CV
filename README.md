@@ -17,7 +17,7 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 ### Skills
 
 **Languages:** JavaScript, HTML/HTML5, CSS/CSS3   
-**Familiar with:** PHP, Python, SQL    
+**Familiar with:** PHP, SQL, MySQL    
 **Operating Systems:** Windows, Linux   
 **Preprocessors:** Pug, Sass/Less  
 **Libraries/Frameworks:** jQuery, Bootstrap  
