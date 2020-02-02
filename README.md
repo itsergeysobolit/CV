@@ -16,14 +16,14 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 
 ### Skills
 
-**Languages:** JavaScript, HTML5, CSS3  
+**Languages:** JavaScript, HTML/HTML5, CSS/CSS3   
 **Familiar with:** PHP, Python, SQL    
 **Operating Systems:** Windows, Linux   
 **Preprocessors:** Pug, Sass/Less  
 **Libraries/Frameworks:** jQuery, Bootstrap  
 **Methodologies:** BEM, Responsive Web Design  
 **VCS:** Git, Git flow  
-**Others:** Gulp, Continuous Integration, Agile/Scrum, Trello, Adobe Photoshop, Zeplin  
+**Others:** Gulp, Continuous Integration, Agile/Scrum, Trello, Adobe Photoshop, Zeplin, Avocode, PSDetch 
 
 ### Soft Skills
 
@@ -34,7 +34,7 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 
 ### Languages
 
-**English:** basic      
+**English:** Intermediate       
 **Ukranian/Russian:** native  
 **Polish:** pre-intermediate  
 
@@ -43,7 +43,7 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 **Years:** 2019-2021    
 **Degree:** Master       
 **Alma mater:** [Taras Shevchenko National University](http://www.univ.kiev.ua/en/)    
-**Major:** Mathematics, Faculty of Mechanics and Mathematics    
+**Major:** Applied that theoretical statistics, Faculty of Mechanics and Mathematics    
 
 **Years:** 2016-2019  
 **Degree:** Bachelor  
