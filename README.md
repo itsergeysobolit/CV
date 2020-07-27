@@ -25,6 +25,22 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 **VCS:** Git, Git flow  
 **Others:** Gulp, Continuous Integration, Agile/Scrum, Trello, Adobe Photoshop, Zeplin, Avocode, PSDetch 
 
+### Work Experience
+
+**Years:** 2019 (august-september)  
+**Company:** Volia
+**Position:** Junior specialist of the customer service development sector
+* Creation of a web application for call center operators
+* Automation of scheduling of call center workers
+* The main technologies are HTML, CSS, JavaScript, PHP, SQL, AJAX.
+
+**Years:** 2019 (september-october)  
+**Company:** sourceX
+**Position:** Junior Quality Assurance Engineer
+* Сreation of test scripts and test cases
+* Refinement of existing tests
+* Creation of debugging
+
 ### Soft Skills
 
 * **Analytical Thinking**  — won different regional mathematics and physics competitions, the medalist of Junior Academy of Sciences of Ukraine 2015, 2013.
