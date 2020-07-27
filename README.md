@@ -28,14 +28,14 @@ Motivated developer with knowledge in HTML5, CSS3, JavaScript. Also, I am ready 
 ### Work Experience
 
 **Years:** 2019 (august-september)  
-**Company:** Volia
+**Company:** Volia 
 **Position:** Junior specialist of the customer service development sector
 * Creation of a web application for call center operators
 * Automation of scheduling of call center workers
 * The main technologies are HTML, CSS, JavaScript, PHP, SQL, AJAX.
 
 **Years:** 2019 (september-october)  
-**Company:** sourceX
+**Company:** sourceX 
 **Position:** Junior Quality Assurance Engineer
 * Сreation of test scripts and test cases
 * Refinement of existing tests
